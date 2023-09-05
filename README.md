@@ -1,7 +1,18 @@
 # junnie082
 
-instagram: https://www.instagram.com/junnie082cs/
+## Hello, everyone! I'm Hyojeong Jun from South Korea.
+## ...newbie at Computer Science (studying since 2021)
 
+# Interests
+ - Quoridor
+ - Software development projects
+ - Boxing
+ - Talking to foreigners
+ - Scuba diving
+ - Books
+ - Trying new things!
+
+instagram: https://www.instagram.com/junnie082cs/
 git-blog: https://junnie082.github.io
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnie082)](https://solved.ac/junnie082/)
