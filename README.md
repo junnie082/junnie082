@@ -7,7 +7,7 @@
  - Quoridor
  - Software development projects
  - Boxing
- - Talking to foreigners
+ - Talking to someone new in English
  - Scuba diving
  - Books
  - Trying new things!
