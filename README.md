@@ -23,7 +23,7 @@ git-blog: https://junnie082.github.io
 * [~AI~ Quoridor mobile board game with Unity & C#](https://github.com/SeoulTechTCPGame/block-it)  
 * [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)  
 * [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
-* [Buddies Building Program(Happy Buddy) for Scuba Team](https://github.com/junnie082/happy-buddies)
+* [Buddies Building Program(Happy Buddies) for Scuba Team](https://github.com/junnie082/happy-buddies)
 * [English Presentation Skills](https://github.com/junnie082/English-Presentation)
 * [Hangman Game using Unix System Call for Kids](https://github.com/junnie082/hangman)
 * [Cyber Security competition](https://junnie082.github.io/security/2023/06/28/CryptoWallet.html)  
