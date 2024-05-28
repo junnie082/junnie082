@@ -21,7 +21,8 @@ git-blog: https://junnie082.github.io
 ## Projects 
 * [App project for disabled with Flutter & Dart](https://github.com/junnie082/Best_Friend)  
 * [~AI~ Quoridor mobile board game with Unity & C#](https://github.com/SeoulTechTCPGame/block-it)  
-* [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)  
+* [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)
+* [GDSC 3rd Solution Challenge - Mind Solver](https://github.com/junnie082/mindsolver-flutter)  
 * [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
 * [Buddies Building Program(Happy Buddies) for Scuba Team](https://github.com/junnie082/happy-buddies)
 * [English Presentation Skills](https://github.com/junnie082/English-Presentation)
