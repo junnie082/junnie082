@@ -2,7 +2,7 @@
 
 # Problem Solver
 
-💻 Studying Computer Science & Engineering in Seoul Nation University of Science and Technology
+💻 Studying Computer Science & Engineering in Seoul National University of Science and Technology
 
 😎 Lead in GDSC (Google Developer Students Clubs) SeoulTech 4th (2024~2025)
   - [Website for English Speaking Study in GDSC 4th](https://github.com/junnie082/IT_Article_Study)
@@ -15,7 +15,7 @@
   - [Quoridor Logic Code in Java](https://github.com/junnie082/Quoridor_in_Java)
   - [~AI~ Quoridor mobile board game with Unity & C#](https://github.com/SeoulTechTCPGame/block-it)  
 
-🐬 Advanced Scuba Diver (got certified from CMAS)
+🐬 Advanced Scuba Diver (got certified by CMAS)
   - [Online Logbook & Social system](https://github.com/junnie082/Scoop-A-Dive)
   - [Buddies Building Program(Happy Buddies) for Scuba Team](https://github.com/junnie082/happy-buddies)
 
@@ -62,16 +62,15 @@
 <p align="center">
  <a href="https://github.com/junnie082"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=junnie082&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="junnie082's github stats" /></a>
  <a href="https://github.com/junnie082"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnie082&layout=compact&theme=nord&hide_border=true" /></a> 
-
 </p>
 
 ## Contact 
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="left" alt="junnie082 | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram1]  
+[<img align="left" alt="junnie082 | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram1]  
 
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram2]  
+[<img align="left" alt="junnie082 | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram2]  
 
 [website]: https://junnie082.github.io
 [instagram1]: https://instagram.com/junnie082cs
