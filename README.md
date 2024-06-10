@@ -27,6 +27,7 @@
   - [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
   - [Hangman Game using Unix System Call for Kids](https://github.com/junnie082/hangman)
   - [Web-Hacking Study](https://github.com/junnie082/Web-Hacking)
+  - [Software Engineering - Text Based Java Tetris](https://github.com/junnie082/text-based-tetris)
 
 
 # English Skills
