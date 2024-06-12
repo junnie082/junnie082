@@ -3,11 +3,8 @@
 # Problem Solver
 
 💻 Studying Computer Science & Engineering in Seoul National University of Science and Technology
-
-😎 Lead in GDSC (Google Developer Students Clubs) SeoulTech 4th (2024~2025)
-  - [Website for English Speaking Study in GDSC 4th](https://github.com/junnie082/IT_Article_Study)
    
-😎 Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
+😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
   - [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)    
   - [GDSC 3rd Solution Challenge - Mind Solver](https://github.com/junnie082/mindsolver-flutter)
 
