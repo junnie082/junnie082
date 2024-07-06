@@ -15,6 +15,7 @@
 ## 🐬 Advanced Scuba Diver (got certified by CMAS)
   - [Online Logbook & Social system](https://github.com/junnie082/Scoop-A-Dive)
   - [Buddies Building Program(Happy Buddies) for Scuba Team](https://github.com/junnie082/happy-buddies)
+  - [Tang Squad](https://github.com/TangSquad)
 
 ## 🏆 Contests
   - [App project for disabled with Flutter & Dart](https://github.com/junnie082/Best_Friend)  
