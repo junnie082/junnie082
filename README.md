@@ -6,7 +6,7 @@
    
 ## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
   - [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)    
-  - [GDSC 3rd Solution Challenge - Mind Solver](https://github.com/junnie082/mindsolver-flutter)
+  - [GDSC Seoultech 3rd Solution Challenge - Mind Solver](https://github.com/MindSolver/mindsolver-flutter)
 
 ## ⚁ Expert in Quoridor since 2019
   - [Quoridor Logic Code in Java](https://github.com/junnie082/Quoridor_in_Java)
