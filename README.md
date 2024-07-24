@@ -28,7 +28,7 @@
   - [Hangman Game using Unix System Call for Kids](https://github.com/junnie082/hangman)
   - [Web-Hacking Study](https://github.com/junnie082/Web-Hacking)
   - [Software Engineering - Text Based Java Tetris](https://github.com/junnie082/text-based-tetris)
-  - [SW volunteer for kids in Jung-Hyeon Elementary School](https://www.instagram.com/p/CzGgFPQyiub/?next=%2F&img_index=1)
+  - [SW volunteer for kids in Jung-Hyeon Elementary School](https://www.instagram.com/p/CzGgFPQyiub/?next=%2F&img_index=1)  
 [23_하반기_SW교육기부단_수료증 및 활동확인서(곽씩스_전효정).pdf](https://github.com/user-attachments/files/16362841/23_._SW._._.pdf)
 
 
