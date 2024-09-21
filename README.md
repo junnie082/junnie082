@@ -24,6 +24,7 @@
 
 
 ## ✏️ Study & School Work 
+  - [Computer Science (CS)](https://github.com/junnie082/ComputerScience/blob/main/ComputerSecurity/chap02.md)
   - [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
   - [Hangman Game using Unix System Call for Kids](https://github.com/junnie082/hangman)
   - [Web-Hacking Study](https://github.com/junnie082/Web-Hacking)
