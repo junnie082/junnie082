@@ -5,6 +5,8 @@
 💻 Studying Computer Science & Engineering in Seoul National University of Science and Technology
    
 ## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
+### [GDSC 2023-24 Certificates for Core Member.pdf](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
+
   - [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)    
   - [GDSC Seoultech 3rd Solution Challenge - Mind Solver](https://github.com/MindSolver/mindsolver-flutter)
 
