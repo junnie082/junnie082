@@ -3,6 +3,9 @@
 # Creator
 
 💻 Studying Computer Science & Engineering in Seoul National University of Science and Technology
+
+## For Alex
+- [Lottery & Point System in Awesome English](https://github.com/junnie082/awesome_lottery)  
    
 ## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
 ### [GDSC 2023-24 Certificates for Core Member.pdf](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
