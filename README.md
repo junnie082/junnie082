@@ -2,16 +2,17 @@
 
 # Creator
 
-💻 Studying Computer Science & Engineering in Seoul National University of Science and Technology
+💻 Studying Computer Science & Engineering at Seoul National University of Science and Technology
 
-## For Alex
-- [Lottery & Point System in Awesome English](https://github.com/junnie082/awesome_lottery)  
+## Organizer (Lead) of GDGOC (Google Developer Groups on Campus) (2024~2025)
+- [Events of GDGoC SeoulTech 2024-2025](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)
    
 ## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
 ### [GDSC 2023-24 Certificates for Core Member.pdf](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
 
   - [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)    
   - [GDSC Seoultech 3rd Solution Challenge - Mind Solver](https://github.com/MindSolver/mindsolver-flutter)
+
 
 ## ⚁ Expert in Quoridor since 2019
   - [Quoridor Logic Code in Java](https://github.com/junnie082/Quoridor_in_Java)
@@ -28,6 +29,10 @@
 [국가암호공모전_특별상.pdf](https://github.com/user-attachments/files/16362795/_.pdf)
 
 
+## For Alex
+- [Lottery & Point System in Awesome English](https://github.com/junnie082/awesome_lottery)
+- 
+
 ## ✏️ Study & School Work 
   - [Computer Science (CS)](https://github.com/junnie082/ComputerScience/blob/main/ComputerSecurity/chap02.md)
   - [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
@@ -41,12 +46,9 @@
 
 # English Skills
 
-* English Conversation Instructor for kids since 2021 in Awesome English
+* Opic AL (Advanced Low)
+* Awesome English
   - [High Speaking (Online classes) materials](https://github.com/junnie082/Awsome-HighSpeaking/wiki)
-
-* English Presentation Skills class   
-  - [English Presentation Skills](https://github.com/junnie082/English-Presentation)
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnie082)](https://solved.ac/junnie082/)
 
