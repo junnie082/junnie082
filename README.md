@@ -4,7 +4,7 @@
 
 💻 Studying Computer Science & Engineering at Seoul National University of Science and Technology
 
-## Organizer (Lead) of GDGOC (Google Developer Groups on Campus) (2024~2025)
+## 😎 Organizer (Lead) of GDGOC (Google Developer Groups on Campus) (2024~2025)
 - [Events of GDGoC SeoulTech 2024-2025](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)
    
 ## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
