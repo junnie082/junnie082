@@ -7,18 +7,18 @@
 ## 😎 Organizer (Lead) of GDGoC (Google Developer Groups on Campus) SeoulTech (2024~2025)
 - [Events of GDGoC SeoulTech 2024-2025](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)
    
-## 😎 The Core Member in GDSC (Google Developer Student Clubs) SeoulTech Web Part 3rd (2023~2024)
+## 😎 The Core Member of GDSC (Google Developer Student Clubs) SeoulTech Web Part (2023~2024)
 ### [GDSC 2023-24 Certificates for Core Member.pdf](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
 
   - [Web (Back-End) Study in Google Developer Student Clubs(GDSC) as a Core Member](https://github.com/junnie082/gdsc-seoultech.github.io)    
   - [GDSC Seoultech 3rd Solution Challenge - Mind Solver](https://github.com/MindSolver/mindsolver-flutter)
 
 
-## ⚁ Expert in Quoridor since 2019
+## ⚁ Quoridor
   - [Quoridor Logic Code in Java](https://github.com/junnie082/Quoridor_in_Java)
   - [~AI~ Quoridor mobile board game with Unity & C#](https://github.com/SeoulTechTCPGame/block-it)  
 
-## 🐬 Advanced Scuba Diver (got certified by CMAS)
+## 🐬 CMAS Advanced Scuba Diver
   - [Online Logbook & Social system](https://github.com/junnie082/Scoop-A-Dive)
   - [Buddies Building Program(Happy Buddies) for Scuba Team](https://github.com/junnie082/happy-buddies)
   - [Tang Squad](https://github.com/TangSquad)
@@ -33,7 +33,7 @@
 - [Lottery & Point System in Awesome English](https://github.com/junnie082/awesome_lottery)
 - 
 
-## ✏️ Study & School Work 
+## ✏️ School 
   - [Computer Science (CS)](https://github.com/junnie082/ComputerScience/blob/main/ComputerSecurity/chap02.md)
   - [Advanced Algorithm Study](https://github.com/TeamCrazyPerformance/algorithm2023-1-H)  
   - [Hangman Game using Unix System Call for Kids](https://github.com/junnie082/hangman)
@@ -44,9 +44,9 @@
   - [STBookNest](https://github.com/STBookNest)
 
 
-# English Skills
+# English
 
-* Opic AL (Advanced Low)
+* Opic AL (Advanced Low
 * Awesome English
   - [High Speaking (Online classes) materials](https://github.com/junnie082/Awsome-HighSpeaking/wiki)
 
